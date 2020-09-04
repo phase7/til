@@ -13,4 +13,4 @@ Python ORM libraries are not required for accessing relational databases. In fac
 
 The ability to write Python code instead of SQL can speed up web application development, especially at the beginning of a project. The potential development speed boost comes from not having to switch from Python code into writing declarative paradigm SQL statements. While some software developers may not mind switching back and forth between languages, it's typically easier to knock out a prototype or start a web application using a single programming language.
 
-![comparison-db-and-ORMs](https://www.fullstackpython.com/img/visuals/orm-examples.png comparison-db-and-ORMs)
+![comparison-db-and-ORMs](https://www.fullstackpython.com/img/visuals/orm-examples.png "comparison-db-and-ORMs")
