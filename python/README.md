@@ -1,5 +1,5 @@
 # TIL Python
-> Take a look at random python things I've interesting [over here](https://github.com/phase7/til#python)
+> Take a look at random python things I've found interesting [over here](https://github.com/phase7/til#python)
 
 > And Django things [here](https://github.com/phase7/til#django)
 
