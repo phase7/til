@@ -27,4 +27,5 @@ get a normalized DataFrame ->
 normalized = google.price.div(first_price).mul(100)
 ```
 
- - `.sub(..., axis=0)` : Subtract a Series from each DataFrame column by aligning indexes
+- `.sub(..., axis=0)` : Subtract a Series from each DataFrame column by aligning indexes
+- `.join()` : concatenate Series or DataFrame along axis=1
